@@ -6,7 +6,6 @@ body{
   text-align: center;
   background-image: linear-gradient(to right, #17205d, #c840b6);
 }
-
 h1{
   font-size: 60px;
   color: black;
@@ -17,7 +16,6 @@ h3{
   color: black;
   opacity: 0.7;
 }
-
 .icone{
   margin-left: auto;
   margin-right: auto;
@@ -31,7 +29,7 @@ h3{
   margin-right: auto;
   margin-top: 25vh;
   margin-bottom: 25vh;
-  border: solid 2px black;
+  border: solid 3px black;
   height: 80px;
   width: 380px;
   border-radius: 80px;
@@ -58,9 +56,6 @@ footer{
 }
 
 @media only screen and (max-width: 420px) {
-  *{
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-  }
   body{
     margin: 0px;
     text-align: center;
@@ -89,7 +84,7 @@ footer{
     margin-right: auto;
     margin-top: 25vh;
     margin-bottom: 25vh;
-    border: solid 2px black;
+    border: solid 3px black;
     height: 60px;
     width: 300px;
     border-radius: 80px;
