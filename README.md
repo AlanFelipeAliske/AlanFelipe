@@ -1,2 +1,2 @@
 #  Alan Felipe
-Apenas um site pessoal simples com CSS e HTML
+Apenas um site simples com CSS e HTML
